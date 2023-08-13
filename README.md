@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey there, I'm Maya Hussein 👋</h1>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Maya Hussein<br><br>- 🔭 I’m studying Computer Engineering with a minor in mathematics.<br>- 📚 I'm currently learning about machine learning and SOCs.</p>
+<p align="left"><br>- 🔭 I’m studying Computer Engineering with a minor in mathematics.<br>- 📚 I'm currently learning about machine learning and SOCs.</p>
 
 ###
 
